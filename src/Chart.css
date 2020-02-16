@@ -1,0 +1,38 @@
+ #mean0 .default-color0.chart-symbol {
+    -fx-background-color: #ff3f00;
+    -fx-background-radius: 10px;
+    -fx-padding: 10px;
+    -fx-opacity: .5;
+}
+#mean1 .default-color1.chart-symbol {
+    -fx-stroke: #a9e200;
+    -fx-padding: 10px;
+}
+#mean2 .default-color2.chart-symbol {
+    -fx-stroke: #a9e200;
+    -fx-padding: 10px;
+}
+#mean3 .default-color2.chart-symbol {
+    -fx-stroke: #a9e200;
+    -fx-padding: 10px;
+}
+#mean4 .default-color2.chart-symbol {
+    -fx-stroke: #a9e200;
+    -fx-padding: 10px;
+}
+#mean5 .default-color2.chart-symbol {
+    -fx-stroke: #a9e200;
+    -fx-padding: 10px;
+}
+#mean6 .default-color2.chart-symbol {
+    -fx-stroke: #a9e200;
+    -fx-padding: 10px;
+}
+#mean7 .default-color2.chart-symbol {
+    -fx-stroke: #a9e200;
+    -fx-padding: 10px;
+}
+#mean8 .default-color2.chart-symbol {
+    -fx-stroke: #a9e200;
+    -fx-padding: 10px;
+}
